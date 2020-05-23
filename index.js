@@ -1,1 +1,2 @@
-"add() is a valid function"
+function add() {
+  return 'add() is a valid funcion'
