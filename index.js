@@ -1,1 +1,1 @@
-var add = a + b
+"add() is a valid function"
